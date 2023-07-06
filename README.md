@@ -1,5 +1,6 @@
 # Projeto-AWAX
-Projeto super completo feito apenas com hmtl e css, totalmente responsivo para mobile e tablet 
+Projeto super completo feito apenas com hmtl e css, totalmente responsivo para mobile e tablet <br/>
+OBS: Projeto feito para treino e estudo!
 ##
 ### DESKTOP
 
