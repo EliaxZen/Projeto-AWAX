@@ -1,7 +1,7 @@
 # Projeto-AWAX
 Projeto super completo feito apenas com hmtl e css, totalmente responsivo para mobile e tablet <br/>
 OBS: Projeto feito para treino e estudo! <br />
-link(https://webpageawax.netlify.app/)
+link do <a href="https://webpageawax.netlify.app/">DEPLOY</a>
 ##
 ### DESKTOP
 
